@@ -1,4 +1,8 @@
-# Node.js - Demo Web Application
+# Node.js - Demo Web Application for Ease in Learning GitHub!
+
+## About this Project
+
+This project is based on a fork of [benc-uk/nodejs-demoapp](https://github.com/benc-uk/nodejs-demoapp). All credit for the original code goes to [benc-uk](https://github.com/benc-uk). This fork includes additional modifications to suit my own use case, including CI/CD setup and deployment to Azure.
 
 This is a simple Node.js web app using the Express framework and EJS templates.
 
